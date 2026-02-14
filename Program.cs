@@ -5,6 +5,8 @@
 // Variables
 string dayResponse;
 
+Console.WriteLine("Welcome adventurer.\r\n\r\nYour younger sister has fallen very sick, and you don’t have enough money to pay for the treatment she needs. You’ve tried working small, lowpaying jobs, but nothing earns money fast enough. Every day, you feel more stressed and helpless.\r\n\r\nOne evening, you overhear some travellers talking about something called The Ancient Gold Pot. They say whoever finds it will gain enough gold to become rich for generations. \r\n\r\nYou quickly ask them where it is. They tell you its hidden in a faraway place called Farquite.\r\n\r\nAs soon as you hear that, you run home, pack your bag, and prepare to leave. This is your only chance to save your sister. Your journey to Farquite begins now.");
+
 
 Console.Write("Enter your nickname: ");
 string nickname = Console.ReadLine();
@@ -47,4 +49,5 @@ else if (AncientGoldPotyn == "No")
 {
     Console.WriteLine("Well... The Ancient Gold Pot or the AGP for short is a well know legend know by the locals, the AGP contanins enough money to set you up for life! ");
 }
-a
+
+ 
